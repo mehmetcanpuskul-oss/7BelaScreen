@@ -1,0 +1,10 @@
+{
+  "name": "7BelaScreen",
+  "short_name": "7BelaScreen",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#0b1220",
+  "lang": "tr",
+  "description": "Kısa videolar, kelimeler ve oyunlarla İngilizce öğrenme uygulaması."
+}
